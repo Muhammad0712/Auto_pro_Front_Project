@@ -1,6 +1,6 @@
 
 import { Route, Routes } from 'react-router-dom'
-import Registration from '../pages/auth/registration'
+import Registration from '../pages/auth/Registration'
 import App from '../App'
 import NotFound from '../pages/NotFound/NotFound'
 
